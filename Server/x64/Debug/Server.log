@@ -1,0 +1,22 @@
+﻿  main.c
+C:\Users\ma\source\repos\Ex4\Server\main.c(195,81): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+C:\Users\ma\source\repos\Ex4\Server\main.c(197,31): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\ma\source\repos\Ex4\Server\main.c(353,49): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+C:\Users\ma\source\repos\Ex4\Server\main.c(353,40): warning C4024: 'get_msg_type_and_params': different types for formal and actual parameter 2
+C:\Users\ma\source\repos\Ex4\Server\main.c(353,58): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\ma\source\repos\Ex4\Server\main.c(353,51): warning C4024: 'get_msg_type_and_params': different types for formal and actual parameter 3
+C:\Users\ma\source\repos\Ex4\Server\main.c(424,48): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+C:\Users\ma\source\repos\Ex4\Server\main.c(424,39): warning C4024: 'get_msg_type_and_params': different types for formal and actual parameter 2
+C:\Users\ma\source\repos\Ex4\Server\main.c(424,58): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+C:\Users\ma\source\repos\Ex4\Server\main.c(424,50): warning C4024: 'get_msg_type_and_params': different types for formal and actual parameter 3
+C:\Users\ma\source\repos\Ex4\Server\main.c(427,36): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+C:\Users\ma\source\repos\Ex4\Server\main.c(427,28): warning C4024: 'strlen': different types for formal and actual parameter 1
+C:\Users\ma\source\repos\Ex4\Server\main.c(427,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ma\source\repos\Ex4\Server\main.c(497,61): warning C4047: 'function': 'char **' differs in levels of indirection from 'char (*)[21]'
+C:\Users\ma\source\repos\Ex4\Server\main.c(497,52): warning C4024: 'accept_new_player': different types for formal and actual parameter 3
+C:\Users\ma\source\repos\Ex4\Server\main.c(539,50): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+C:\Users\ma\source\repos\Ex4\Server\main.c(539,41): warning C4024: 'get_msg_type_and_params': different types for formal and actual parameter 2
+C:\Users\ma\source\repos\Ex4\Server\main.c(539,59): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\ma\source\repos\Ex4\Server\main.c(539,52): warning C4024: 'get_msg_type_and_params': different types for formal and actual parameter 3
+C:\Users\ma\source\repos\Ex4\Server\main.c(574,1): warning C4026: function declared with formal parameter list
+  Server.vcxproj -> C:\Users\ma\source\repos\Ex4\x64\Debug\Server.exe
