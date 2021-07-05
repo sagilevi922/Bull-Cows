@@ -1,0 +1,15 @@
+﻿  main.c
+C:\Users\ma\source\repos\Ex4\Client\main.c(101,51): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+C:\Users\ma\source\repos\Ex4\Client\main.c(101,42): warning C4024: 'get_msg_type_and_params': different types for formal and actual parameter 2
+C:\Users\ma\source\repos\Ex4\Client\main.c(101,60): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\ma\source\repos\Ex4\Client\main.c(101,53): warning C4024: 'get_msg_type_and_params': different types for formal and actual parameter 3
+C:\Users\ma\source\repos\Ex4\Client\main.c(185,52): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+C:\Users\ma\source\repos\Ex4\Client\main.c(185,43): warning C4024: 'get_msg_type_and_params': different types for formal and actual parameter 2
+C:\Users\ma\source\repos\Ex4\Client\main.c(185,61): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\ma\source\repos\Ex4\Client\main.c(185,54): warning C4024: 'get_msg_type_and_params': different types for formal and actual parameter 3
+C:\Users\ma\source\repos\Ex4\Client\main.c(339,51): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+C:\Users\ma\source\repos\Ex4\Client\main.c(339,42): warning C4024: 'get_msg_type_and_params': different types for formal and actual parameter 2
+C:\Users\ma\source\repos\Ex4\Client\main.c(339,60): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\ma\source\repos\Ex4\Client\main.c(339,53): warning C4024: 'get_msg_type_and_params': different types for formal and actual parameter 3
+C:\Users\ma\source\repos\Ex4\Client\main.c(446,24): warning C4047: '==': 'void *' differs in levels of indirection from 'SOCKET'
+  Client.vcxproj -> C:\Users\ma\source\repos\Ex4\x64\Debug\Client.exe
