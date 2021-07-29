@@ -1,4 +1,4 @@
-# Bulls Cows - Operating Systems Course
+# Bulls Cows - Operating Systems Course.
 
 
 Bulls and Cows is a 2 player game. 
